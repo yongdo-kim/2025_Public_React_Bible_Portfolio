@@ -4,7 +4,8 @@
 북마크 기능, 장 보기, 구글을 통한 사용자 인증 등의 기능을 포함하고 있습니다.
 해당 프로젝트는 포트폴리용이며, 현재 기획한 1차까지 완료한 상태입니다.
 
-![스크린샷 설명](public/assets/screenshot/screenshot_1.png)
+![스크린샷 설명](./public/assets/screenshot/screenshot_1.png)
+
 
 ## 폴더 구조
 
